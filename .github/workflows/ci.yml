@@ -25,3 +25,5 @@ jobs:
 
       - run: pip3 install -U -r requirements.txt
       - run: mkdocs gh-deploy --force
+    env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
