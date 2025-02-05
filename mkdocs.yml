@@ -70,11 +70,14 @@ plugins:
           site_name: network science self-learning notes
           nav_translations:
             前言: Foreword
-            如何使用这本书: How To Use The Book
-            参考学习规划: Guideline
-            必学工具: Productivity Toolkit
-            日常学习工作流: Notes Workflow
-            进阶路线图: Roadmap
+            如何使用该笔记: How To Use Notes
+            学习规划: Guideline
+            基础知识: Basic Knowledge
+            邻接矩阵: Adjacency Matrix
+            # 必学工具: Productivity Toolkit
+            # 日常学习工作流: Notes Workflow
+            # 进阶路线图: Roadmap
+            推荐资源: Resources
             后记: Postscript
   - search:
       lang:
@@ -98,7 +101,6 @@ nav:
   - 如何使用该笔记: "使用指南.md"
   - 学习规划: "网络科学学习规划.md"
   - 基础知识:
-    - 网络科学基础: "网络科学基础.md"
-    - 网络科学工具: "网络科学工具.md"
+    - 邻接矩阵: "邻接矩阵.md"
   - 推荐资源: "资源.md"
   - 后记: "后记.md"
