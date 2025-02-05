@@ -4,8 +4,8 @@ site_author: Jay Bridge
 site_description: >-
   网络科学自学笔记
 
-repo_name:
-repo_url:
+repo_name: network-science-self-learning
+repo_url: https://github.com/LIUBINfighter/network-science-self-learning
 
 copyright: Copyright &copy; 2025-present <a href="https://github.com/LIUBINFighter" target="_blank" rel="noopener noreferrer">LIUBINFighter</a>
 
@@ -88,8 +88,8 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link:
-  analytics:https://github.com/LIUBINfighter/network-science-self-learning
+      link: https://github.com/LIUBINfighter/network-science-self-learning
+  analytics:
     provider: google
     property: G-KJB4RXSKZG
 
